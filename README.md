@@ -1,2 +1,2 @@
-# first_project
+# Seconed Project
 learning and practicing HTML&amp;CSS
